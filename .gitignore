@@ -1,0 +1,15 @@
+# Ejecutables
+a.out
+main
+*.exe
+
+# Objetos compilados
+*.o
+
+# Librerías
+*.so
+*.a
+
+# Carpetas de compilación
+build/
+bin/
